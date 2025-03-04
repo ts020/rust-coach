@@ -1,4 +1,6 @@
 {
     "rust-analyzer.rustfmt.rangeFormatting.enable": true,
-    "biome.enabled": false
+    "biome.enabled": false,
+    "rust-analyzer.initializeStopped": false,
+    "rust-analyzer.diagnostics.useRustcErrorCode": true
 }
